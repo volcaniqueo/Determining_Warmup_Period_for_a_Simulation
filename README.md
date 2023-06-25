@@ -2,7 +2,7 @@
 This project was my 3rd Homework for the course IE 306 (Systems Simulation) at Bogazici University.
 
 ## Details
-This project uses SimPy framework for Python to implement discrete event simulation easily. The two different methods for determining the warm-up periods is given in the project description file. The detailed anaysis and the determined warm-up periods can be found in the project report.
+This project uses SimPy framework for Python to implement discrete event simulation easily. The two different methods for determining the warm-up periods are given in the project description file. The detailed anaysis and the determined warm-up periods can be found in the project report.
 
 ## To Run the Code
 **_(This procedure is for phase 1. Same applies for phase 2)_**
