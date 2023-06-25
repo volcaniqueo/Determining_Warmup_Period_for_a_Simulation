@@ -13,7 +13,7 @@ First determine the random seed and how many times the simulation should be run 
 
 ```RANDOM_SEED = <YOUR RANDOM SEED>```
 
-```REP_COUNT = <HOW MANY TIMES THE SIMULATION SHOULD BE RUN```
+```REP_COUNT = <HOW MANY TIMES THE SIMULATION SHOULD BE RUN>```
 
 Then simply run the runner file:
 
